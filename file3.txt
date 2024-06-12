@@ -1,0 +1,7 @@
+phones:
+********
+iphone
+samsung
+infinix
+nokia
+Huavey

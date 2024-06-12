@@ -1,0 +1,13 @@
+fruits:
+**************
+Olma
+banan
+shaftoli
+uzum
+anjir
+gilos
+olcha
+qulupnay
+nok
+limon
+ananas
